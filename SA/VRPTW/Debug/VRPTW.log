@@ -1,0 +1,107 @@
+﻿  Solve.cpp
+c:\users\miaoayao\desktop\sa\vrptw\solve.cpp(62): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\miaoayao\desktop\sa\vrptw\solve.cpp(74): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\miaoayao\desktop\sa\vrptw\solve.cpp(88): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\miaoayao\desktop\sa\vrptw\solve.cpp(105): warning C4244: “参数”: 从“double”转换到“const unsigned int”，可能丢失数据
+c:\users\miaoayao\desktop\sa\vrptw\solve.cpp(130): warning C4244: “参数”: 从“double”转换到“const unsigned int”，可能丢失数据
+c:\users\miaoayao\desktop\sa\vrptw\solve.cpp(140): warning C4244: “参数”: 从“double”转换到“const unsigned int”，可能丢失数据
+c:\users\miaoayao\desktop\sa\vrptw\solve.cpp(141): warning C4244: “参数”: 从“double”转换到“const unsigned int”，可能丢失数据
+c:\users\miaoayao\desktop\sa\vrptw\solve.cpp(143): warning C4244: “参数”: 从“double”转换到“const unsigned int”，可能丢失数据
+c:\users\miaoayao\desktop\sa\vrptw\solve.cpp(188): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\miaoayao\desktop\sa\vrptw\solve.cpp(201): warning C4244: “参数”: 从“double”转换到“const unsigned int”，可能丢失数据
+c:\users\miaoayao\desktop\sa\vrptw\solve.cpp(205): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\miaoayao\desktop\sa\vrptw\solve.cpp(207): warning C4244: “参数”: 从“double”转换到“const unsigned int”，可能丢失数据
+c:\users\miaoayao\desktop\sa\vrptw\solve.cpp(210): warning C4244: “参数”: 从“double”转换到“const unsigned int”，可能丢失数据
+c:\users\miaoayao\desktop\sa\vrptw\solve.cpp(261): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\miaoayao\desktop\sa\vrptw\solve.cpp(270): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\miaoayao\desktop\sa\vrptw\solve.cpp(294): warning C4244: “参数”: 从“double”转换到“const unsigned int”，可能丢失数据
+c:\users\miaoayao\desktop\sa\vrptw\solve.cpp(295): warning C4244: “参数”: 从“double”转换到“const unsigned int”，可能丢失数据
+c:\users\miaoayao\desktop\sa\vrptw\solve.cpp(296): warning C4244: “参数”: 从“double”转换到“const unsigned int”，可能丢失数据
+c:\users\miaoayao\desktop\sa\vrptw\solve.cpp(301): warning C4244: “参数”: 从“double”转换到“const int”，可能丢失数据
+c:\users\miaoayao\desktop\sa\vrptw\solve.cpp(316): warning C4244: “参数”: 从“double”转换到“const unsigned int”，可能丢失数据
+c:\users\miaoayao\desktop\sa\vrptw\solve.cpp(385): warning C4101: “e”: 未引用的局部变量
+c:\users\miaoayao\desktop\sa\vrptw\solve.cpp(384): warning C4101: “n”: 未引用的局部变量
+c:\users\miaoayao\desktop\sa\vrptw\solve.cpp(542): warning C4244: “参数”: 从“double”转换到“const unsigned int”，可能丢失数据
+c:\users\miaoayao\desktop\sa\vrptw\solve.cpp(543): warning C4244: “参数”: 从“double”转换到“const unsigned int”，可能丢失数据
+c:\users\miaoayao\desktop\sa\vrptw\solve.cpp(604): warning C4244: “参数”: 从“double”转换到“const unsigned int”，可能丢失数据
+c:\users\miaoayao\desktop\sa\vrptw\solve.cpp(612): warning C4244: “参数”: 从“double”转换到“const unsigned int”，可能丢失数据
+c:\users\miaoayao\desktop\sa\vrptw\solve.cpp(613): warning C4244: “参数”: 从“double”转换到“const unsigned int”，可能丢失数据
+c:\users\miaoayao\desktop\sa\vrptw\solve.cpp(517): warning C4101: “e”: 未引用的局部变量
+c:\users\miaoayao\desktop\sa\vrptw\solve.cpp(516): warning C4101: “n”: 未引用的局部变量
+c:\users\miaoayao\desktop\sa\vrptw\solve.cpp(671): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\miaoayao\desktop\sa\vrptw\solve.cpp(675): warning C4244: “参数”: 从“double”转换到“const unsigned int”，可能丢失数据
+c:\users\miaoayao\desktop\sa\vrptw\solve.cpp(702): warning C4244: “参数”: 从“double”转换到“const unsigned int”，可能丢失数据
+c:\users\miaoayao\desktop\sa\vrptw\solve.cpp(710): warning C4244: “参数”: 从“double”转换到“const unsigned int”，可能丢失数据
+c:\users\miaoayao\desktop\sa\vrptw\solve.cpp(711): warning C4244: “参数”: 从“double”转换到“const unsigned int”，可能丢失数据
+c:\users\miaoayao\desktop\sa\vrptw\solve.cpp(668): warning C4101: “e”: 未引用的局部变量
+c:\users\miaoayao\desktop\sa\vrptw\solve.cpp(667): warning C4101: “n”: 未引用的局部变量
+c:\users\miaoayao\desktop\sa\vrptw\solve.cpp(789): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\miaoayao\desktop\sa\vrptw\solve.cpp(802): warning C4244: “参数”: 从“double”转换到“const unsigned int”，可能丢失数据
+c:\users\miaoayao\desktop\sa\vrptw\solve.cpp(803): warning C4244: “参数”: 从“double”转换到“const unsigned int”，可能丢失数据
+c:\users\miaoayao\desktop\sa\vrptw\solve.cpp(826): warning C4244: “参数”: 从“double”转换到“const unsigned int”，可能丢失数据
+c:\users\miaoayao\desktop\sa\vrptw\solve.cpp(836): warning C4244: “参数”: 从“double”转换到“const unsigned int”，可能丢失数据
+c:\users\miaoayao\desktop\sa\vrptw\solve.cpp(846): warning C4244: “参数”: 从“double”转换到“const unsigned int”，可能丢失数据
+c:\users\miaoayao\desktop\sa\vrptw\solve.cpp(847): warning C4244: “参数”: 从“double”转换到“const unsigned int”，可能丢失数据
+c:\users\miaoayao\desktop\sa\vrptw\solve.cpp(849): warning C4244: “参数”: 从“double”转换到“const unsigned int”，可能丢失数据
+c:\users\miaoayao\desktop\sa\vrptw\solve.cpp(850): warning C4244: “参数”: 从“double”转换到“const unsigned int”，可能丢失数据
+c:\users\miaoayao\desktop\sa\vrptw\solve.cpp(785): warning C4101: “e”: 未引用的局部变量
+c:\users\miaoayao\desktop\sa\vrptw\solve.cpp(784): warning C4101: “n”: 未引用的局部变量
+c:\users\miaoayao\desktop\sa\vrptw\solve.cpp(911): warning C4244: “参数”: 从“double”转换到“const unsigned int”，可能丢失数据
+c:\users\miaoayao\desktop\sa\vrptw\solve.cpp(922): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\miaoayao\desktop\sa\vrptw\solve.cpp(941): warning C4244: “参数”: 从“double”转换到“const unsigned int”，可能丢失数据
+c:\users\miaoayao\desktop\sa\vrptw\solve.cpp(919): warning C4101: “e”: 未引用的局部变量
+c:\users\miaoayao\desktop\sa\vrptw\solve.cpp(918): warning C4101: “n”: 未引用的局部变量
+c:\users\miaoayao\desktop\sa\vrptw\solve.cpp(1042): warning C4244: “参数”: 从“double”转换到“const unsigned int”，可能丢失数据
+c:\users\miaoayao\desktop\sa\vrptw\solve.cpp(1044): warning C4244: “参数”: 从“double”转换到“const unsigned int”，可能丢失数据
+c:\users\miaoayao\desktop\sa\vrptw\solve.cpp(1047): warning C4244: “参数”: 从“double”转换到“const unsigned int”，可能丢失数据
+c:\users\miaoayao\desktop\sa\vrptw\solve.cpp(1050): warning C4244: “参数”: 从“double”转换到“const unsigned int”，可能丢失数据
+c:\users\miaoayao\desktop\sa\vrptw\solve.cpp(1052): warning C4244: “参数”: 从“double”转换到“const unsigned int”，可能丢失数据
+c:\users\miaoayao\desktop\sa\vrptw\solve.cpp(1058): warning C4244: “参数”: 从“double”转换到“const unsigned int”，可能丢失数据
+c:\users\miaoayao\desktop\sa\vrptw\solve.cpp(1062): warning C4244: “参数”: 从“double”转换到“const unsigned int”，可能丢失数据
+c:\users\miaoayao\desktop\sa\vrptw\solve.cpp(1064): warning C4244: “参数”: 从“double”转换到“const unsigned int”，可能丢失数据
+c:\users\miaoayao\desktop\sa\vrptw\solve.cpp(1072): warning C4244: “参数”: 从“double”转换到“const unsigned int”，可能丢失数据
+c:\users\miaoayao\desktop\sa\vrptw\solve.cpp(1074): warning C4244: “参数”: 从“double”转换到“const unsigned int”，可能丢失数据
+c:\users\miaoayao\desktop\sa\vrptw\solve.cpp(1081): warning C4244: “参数”: 从“double”转换到“const unsigned int”，可能丢失数据
+c:\users\miaoayao\desktop\sa\vrptw\solve.cpp(1086): warning C4244: “参数”: 从“double”转换到“const unsigned int”，可能丢失数据
+c:\users\miaoayao\desktop\sa\vrptw\solve.cpp(1088): warning C4244: “参数”: 从“double”转换到“const unsigned int”，可能丢失数据
+c:\users\miaoayao\desktop\sa\vrptw\solve.cpp(1095): warning C4244: “参数”: 从“double”转换到“const unsigned int”，可能丢失数据
+c:\users\miaoayao\desktop\sa\vrptw\solve.cpp(1096): warning C4244: “参数”: 从“double”转换到“const unsigned int”，可能丢失数据
+c:\users\miaoayao\desktop\sa\vrptw\solve.cpp(1098): warning C4244: “参数”: 从“double”转换到“const unsigned int”，可能丢失数据
+c:\users\miaoayao\desktop\sa\vrptw\solve.cpp(1099): warning C4244: “参数”: 从“double”转换到“const unsigned int”，可能丢失数据
+c:\users\miaoayao\desktop\sa\vrptw\solve.cpp(1101): warning C4244: “参数”: 从“double”转换到“const unsigned int”，可能丢失数据
+c:\users\miaoayao\desktop\sa\vrptw\solve.cpp(1103): warning C4244: “参数”: 从“double”转换到“const unsigned int”，可能丢失数据
+c:\users\miaoayao\desktop\sa\vrptw\solve.cpp(1105): warning C4244: “参数”: 从“double”转换到“const int”，可能丢失数据
+c:\users\miaoayao\desktop\sa\vrptw\solve.cpp(1108): warning C4244: “参数”: 从“double”转换到“const unsigned int”，可能丢失数据
+c:\users\miaoayao\desktop\sa\vrptw\solve.cpp(1114): warning C4244: “参数”: 从“double”转换到“const unsigned int”，可能丢失数据
+c:\users\miaoayao\desktop\sa\vrptw\solve.cpp(1117): warning C4244: “参数”: 从“double”转换到“const unsigned int”，可能丢失数据
+c:\users\miaoayao\desktop\sa\vrptw\solve.cpp(1125): warning C4244: “参数”: 从“double”转换到“const unsigned int”，可能丢失数据
+c:\users\miaoayao\desktop\sa\vrptw\solve.cpp(1126): warning C4244: “参数”: 从“double”转换到“const unsigned int”，可能丢失数据
+c:\users\miaoayao\desktop\sa\vrptw\solve.cpp(1128): warning C4244: “参数”: 从“double”转换到“const unsigned int”，可能丢失数据
+c:\users\miaoayao\desktop\sa\vrptw\solve.cpp(1129): warning C4244: “参数”: 从“double”转换到“const unsigned int”，可能丢失数据
+c:\users\miaoayao\desktop\sa\vrptw\solve.cpp(1136): warning C4244: “参数”: 从“double”转换到“const unsigned int”，可能丢失数据
+c:\users\miaoayao\desktop\sa\vrptw\solve.cpp(1140): warning C4244: “参数”: 从“double”转换到“const unsigned int”，可能丢失数据
+c:\users\miaoayao\desktop\sa\vrptw\solve.cpp(1142): warning C4244: “参数”: 从“double”转换到“const unsigned int”，可能丢失数据
+c:\users\miaoayao\desktop\sa\vrptw\solve.cpp(1147): warning C4244: “参数”: 从“double”转换到“const unsigned int”，可能丢失数据
+c:\users\miaoayao\desktop\sa\vrptw\solve.cpp(1150): warning C4244: “参数”: 从“double”转换到“const unsigned int”，可能丢失数据
+c:\users\miaoayao\desktop\sa\vrptw\solve.cpp(1152): warning C4244: “参数”: 从“double”转换到“const unsigned int”，可能丢失数据
+c:\users\miaoayao\desktop\sa\vrptw\solve.cpp(1153): warning C4244: “参数”: 从“double”转换到“const unsigned int”，可能丢失数据
+c:\users\miaoayao\desktop\sa\vrptw\solve.cpp(1158): warning C4244: “参数”: 从“double”转换到“const unsigned int”，可能丢失数据
+c:\users\miaoayao\desktop\sa\vrptw\solve.cpp(1161): warning C4244: “参数”: 从“double”转换到“const unsigned int”，可能丢失数据
+c:\users\miaoayao\desktop\sa\vrptw\solve.cpp(1163): warning C4244: “参数”: 从“double”转换到“const unsigned int”，可能丢失数据
+c:\users\miaoayao\desktop\sa\vrptw\solve.cpp(1164): warning C4244: “参数”: 从“double”转换到“const unsigned int”，可能丢失数据
+c:\users\miaoayao\desktop\sa\vrptw\solve.cpp(1167): warning C4244: “参数”: 从“double”转换到“const unsigned int”，可能丢失数据
+c:\users\miaoayao\desktop\sa\vrptw\solve.cpp(1168): warning C4244: “参数”: 从“double”转换到“const unsigned int”，可能丢失数据
+c:\users\miaoayao\desktop\sa\vrptw\solve.cpp(1169): warning C4244: “参数”: 从“double”转换到“const unsigned int”，可能丢失数据
+c:\users\miaoayao\desktop\sa\vrptw\solve.cpp(1172): warning C4244: “参数”: 从“double”转换到“const unsigned int”，可能丢失数据
+c:\users\miaoayao\desktop\sa\vrptw\solve.cpp(1173): warning C4244: “参数”: 从“double”转换到“const unsigned int”，可能丢失数据
+c:\users\miaoayao\desktop\sa\vrptw\solve.cpp(1175): warning C4244: “参数”: 从“double”转换到“const unsigned int”，可能丢失数据
+c:\users\miaoayao\desktop\sa\vrptw\solve.cpp(1175): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+c:\users\miaoayao\desktop\sa\vrptw\solve.cpp(1176): warning C4244: “参数”: 从“double”转换到“const unsigned int”，可能丢失数据
+c:\users\miaoayao\desktop\sa\vrptw\solve.cpp(1176): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+c:\users\miaoayao\desktop\sa\vrptw\solve.cpp(1179): warning C4244: “参数”: 从“double”转换到“const unsigned int”，可能丢失数据
+c:\users\miaoayao\desktop\sa\vrptw\solve.cpp(1180): warning C4244: “参数”: 从“double”转换到“const unsigned int”，可能丢失数据
+c:\users\miaoayao\desktop\sa\vrptw\solve.cpp(1181): warning C4244: “参数”: 从“double”转换到“const unsigned int”，可能丢失数据
+c:\users\miaoayao\desktop\sa\vrptw\solve.cpp(1185): warning C4244: “参数”: 从“double”转换到“const unsigned int”，可能丢失数据
+c:\users\miaoayao\desktop\sa\vrptw\solve.cpp(1186): warning C4244: “参数”: 从“double”转换到“const int”，可能丢失数据
+c:\users\miaoayao\desktop\sa\vrptw\solve.cpp(1030): warning C4101: “x”: 未引用的局部变量
+  VRPTW.vcxproj -> C:\Users\MiaoAYao\Desktop\SA\Debug\VRPTW.exe
